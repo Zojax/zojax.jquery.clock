@@ -11,7 +11,7 @@
 # FOR A PARTICULAR PURPOSE.
 #
 ##############################################################################
-"""Setup for zojax.jquery.metadata package
+"""Setup for zojax.jquery.clock package
 
 $Id$
 """
@@ -24,7 +24,7 @@ def read(*rnames):
 version='0.2.1dev'
 
 
-setup(name='zojax.jquery.metadata',
+setup(name='zojax.jquery.clock',
       version=version,
       description="JQuery Metadata Plugin",
       long_description=(
